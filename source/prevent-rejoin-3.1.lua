@@ -1,5 +1,5 @@
 local TARGET_USERNAMES = {
-    "TargetUsername2",
+    "TargetUsername1",
     "TargetUsername2",
     "TargetUsername3"
 }
